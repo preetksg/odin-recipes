@@ -1,0 +1,18 @@
+.links {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(242, 66, 13);
+}
+.header {
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: red;
+}
+.header2 {
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: red;
+}
